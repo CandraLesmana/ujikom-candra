@@ -36,6 +36,9 @@ function Konsumen() {
                                                             <h6 className="fw-semibold mb-0">No HP</h6>
                                                         </td>
                                                         <td>
+                                                            <h6 className="fw-semibold mb-0">Alamat</h6>
+                                                        </td>
+                                                        <td>
                                                             <h6 className="fw-semibold mb-0">Action</h6>
                                                         </td>
                                                     </tr>
@@ -46,6 +49,7 @@ function Konsumen() {
                                                         <td>Candra</td>
                                                         <td>KSN-001</td>
                                                         <td>08123456789</td>
+                                                        <td>Ciamis</td>
                                                         <td>
                                                             <div className="btn-group" role="grup" aria-label="Basic Example">
                                                                 <button className="btn btn-sm btn-info"><i class="ti ti-edit"></i> Edit</button>
